@@ -7,6 +7,14 @@ Finding methods to rank Universities in the World is a process that is highly ch
 
 The analysis conducted will be used to aid prospective college students in determining where the best Universities in the world are located so they can make a more educated decision on where to attend college.
 
+# Data Source
+
+https://www.kaggle.com/datasets/mylesoneill/world-university-rankings
+
+# Tableau Storyboard
+
+https://public.tableau.com/app/profile/samuel.callender/viz/WorldUniversityRankings-CALLENDER/WorldUniversityStoryboard
+
 # Tools and Libraries
 This project utilized Python and Tableau
 
