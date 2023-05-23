@@ -19,6 +19,8 @@ https://data.nasdaq.com/data/LBMA-london-bullion-market-association
 
 # Tableau Storyboard
 
+This storyboard contains information and data that is relavant to the final results and does not include every step of the analysis. 
+
 https://public.tableau.com/app/profile/samuel.callender/viz/WorldUniversityRankings-CALLENDER/WorldUniversityStoryboard
 
 # Tools and Libraries
