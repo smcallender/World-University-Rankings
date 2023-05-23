@@ -3,13 +3,9 @@
 # Objective
 
 # Tools and Libraries
-TOOLS
+This project utilized Python and Tableau
 
-Python
-
-Tableau
-
-LIBRARIES
+The following Libraries were used:
 
   quandl
 
