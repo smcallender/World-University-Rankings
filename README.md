@@ -9,7 +9,13 @@ The analysis conducted will be used to aid prospective college students in deter
 
 # Data Source
 
+Main Data Source
+
 https://www.kaggle.com/datasets/mylesoneill/world-university-rankings
+
+Time Series Data Source for Task 6.6
+
+https://data.nasdaq.com/data/LBMA-london-bullion-market-association
 
 # Tableau Storyboard
 
