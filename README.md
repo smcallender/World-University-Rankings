@@ -38,7 +38,7 @@ The following Libraries were used:
 
   matplotlib
 
-  matplotlib.pyplot as plt
+  matplotlib.pyplot 
 
-  import statsmodels.api as sm
+  statsmodels.api 
   
