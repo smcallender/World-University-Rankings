@@ -28,17 +28,17 @@ This project utilized Python and Tableau
 
 The following Libraries were used:
 
-  quandl
+  Quandl
 
-  pandas 
+  Pandas 
 
-  numpy 
+  Numpy 
 
-  seaborn 
+  Seaborn 
 
-  matplotlib
+  Matplotlib
 
-  matplotlib.pyplot 
+  Matplotlib.pyplot 
 
-  statsmodels.api 
+  Statsmodels.api 
   
